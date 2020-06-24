@@ -1,0 +1,10 @@
+{
+  "name": "GenericJson",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^8.6.1",
+    "typescript": "^3.7.4"
+  }
+}
